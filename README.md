@@ -114,7 +114,7 @@ Ramp-Up was field-tested in live urban environments (residential thresholds, pha
   <img src="images/physical_prototype.jpg" width="370" alt="Physical Aluminum Foldable Ramp Prototype">&nbsp;
   <img src="images/field_curb_deployment.jpg" width="370" alt="Ramp-Up Real-World User Testing">
 </p>
-<p align="center"><em>Left: Physical aluminum foldable ramp prototype with grip tape. Right: Real-world user testing with a wheelchair occupant navigating entrance steps.</em></p>
+<p align="center"><em>Left: Physical aluminum foldable ramp prototype. Right: Real-world user testing with a wheelchair occupant navigating entrance steps.</em></p>
 
 ### User Feedback:
 > *"Saiansh sent me this ramp to use. It has been very helpful, allowing me the flexibility to take my wheelchair freely over a few steps. In India, we still do not have proper accessible spaces for wheelchairs, like malls, restaurants, pavements, etc. Earlier, I would avoid places which had a few steps to reach the destination. Now, this portable ramp which I conveniently carry with me has helped me go anywhere and everywhere without stress."*  
