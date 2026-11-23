@@ -111,10 +111,10 @@ Date of Registration: 24/06/2026 | Date of Issuance: 06/08/2026
 Ramp-Up was field-tested in live urban environments (residential thresholds, pharmacy steps, and public curbs) with active wheelchair users:
 
 <p align="center">
-  <img src="images/field_curb_deployment.jpg" width="370" alt="Ramp-Up Real Deployment on Curb">&nbsp;
-  <img src="images/field_wheelchair_testing.jpg" width="370" alt="Ramp-Up Live Testing with Wheelchair">
+  <img src="images/physical_prototype.jpg" width="370" alt="Physical Aluminum Foldable Ramp Prototype">&nbsp;
+  <img src="images/field_curb_deployment.jpg" width="370" alt="Ramp-Up Real-World User Testing">
 </p>
-<p align="center"><em>Left: Real ramp deployed over a concrete curb. Right: Active testing with a wheelchair occupant navigating entrance steps.</em></p>
+<p align="center"><em>Left: Physical aluminum foldable ramp prototype with grip tape. Right: Real-world user testing with a wheelchair occupant navigating entrance steps.</em></p>
 
 ### User Feedback:
 > *"Saiansh sent me this ramp to use. It has been very helpful, allowing me the flexibility to take my wheelchair freely over a few steps. In India, we still do not have proper accessible spaces for wheelchairs, like malls, restaurants, pavements, etc. Earlier, I would avoid places which had a few steps to reach the destination. Now, this portable ramp which I conveniently carry with me has helped me go anywhere and everywhere without stress."*  
@@ -142,8 +142,8 @@ Ramp-Up/
 │   ├── ramp_top_real.jpg                  # Real ramp top view showing panels & transition lip
 │   ├── ramp_front_real.jpg                # Real ramp front elevation
 │   ├── ramp_perspective_left_real.jpg     # Real ramp perspective left
-│   ├── field_curb_deployment.jpg          # Real photo: ramp deployed on street curb
-│   ├── field_wheelchair_testing.jpg       # Real photo: live wheelchair navigation test
+│   ├── physical_prototype.jpg             # Physical aluminum prototype photo
+│   ├── field_curb_deployment.jpg          # Real photo: live wheelchair navigation user testing
 │   └── wheelchair_pouch_integration.png   # 3D render of under-seat pouch deployment
 └── README.md
 ```
