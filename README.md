@@ -150,8 +150,14 @@ Ramp-Up/
 
 ---
 
-## Author & Acknowledgements
+## Author, Intellectual Property & Acknowledgements
 
-- **Inventor & Designer:** Saiansh Tapuriah
-- **Patent Office:** The Patent Office, Government of India (Design No. `506885-001`)
-- **Recognition:** Winner of **The Shri Ram School's Innovator Award**.
+- **Inventor & Lead Designer:** Saiansh Tapuriah
+- **Intellectual Property Citation:**
+  > **Tapuriah, S. (2024).** *Wheelchair Ramp*. Indian Design Patent No. `506885-001`, The Patent Office, Government of India. Class 12-05 (Assistive mobility and patient transport equipment). Certified and granted under the Designs Act, 2000.
+- **Accessibility & Engineering Design Standards Referenced:**
+  1. **ADA Standards for Accessible Design (2010):** U.S. Department of Justice, Section 405 (*Ramps: Slope, Cross Slope, Surface Characteristics, and Edge Protection*).
+  2. **Harmonised Guidelines and Space Standards for Barrier-Free Built Environment for Persons with Disabilities and Elderly Persons (2021):** Ministry of Housing and Urban Affairs (MoHUA), Government of India (Specifications for threshold ramps, curb cuts, and portable accessibility ramps).
+  3. **ASTM B209 / B221:** Standard Specification for Aluminum and Aluminum-Alloy 6061-T6 Sheet and Plate (Structural yield strength: 276 MPa; ultimate tensile strength: 310 MPa; strength-to-weight optimization).
+- **User Validation & Field Testing Credit:** Sincere gratitude to the wheelchair-bound community participant who conducted iterative live usability testing, negotiating real-world architectural barriers and curbs to validate mechanical stability and deployment velocity.
+- **Institutional Recognition:** Recipient of **The Shri Ram School's Innovator Award**.
